@@ -1,0 +1,318 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_0BB208DA_9CE2_D668_41D3_2DAD54B35216.url = https://www.dragonflyawakenings.org/contact-us
+PopupWebFrameBehaviour_4CE7D580_741E_BDDE_41C2_112423F0431E.url = https://www.dragonflyawakenings.org/natural-medicines
+PopupWebFrameBehaviour_485968D0_7421_B37E_41D7_ED586B88C7F8.url = https://www.dragonflyawakenings.org/retreats
+PopupWebFrameBehaviour_49AD7117_7422_72E2_41C3_5189CBBB170E.url = https://www.dragonflyawakenings.org/spiritual-healing-modalities
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.5212276152874!2d-84.6028987!3d10.4595145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0736651248dcb%3A0x15c46b2f7f0810ab!2sDragonfly%20Awakenings%20Healing%2C%20Integration%20%26%20Wellness%20Retreat%20Center!5e0!3m2!1sen!2scr!4v1741720694545!5m2!1sen!2scr
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.5212276152874!2d-84.6028987!3d10.4595145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8fa0736651248dcb%3A0x15c46b2f7f0810ab!2sDragonfly%20Awakenings%20Healing%2C%20Integration%20%26%20Wellness%20Retreat%20Center!5e0!3m2!1sen!2scr!4v1741720694545!5m2!1sen!2scr
+LinkBehaviour_56B4EAE9_608D_11FB_41B7_ECA775CAC2B4.source = https://yousee360.com
+LinkBehaviour_56396A36_608D_1069_41D4_736223C7DA3A.source = https://yousee360.com
+LinkBehaviour_57BACB49_608D_103B_41BD_3E7CCDCD499F.source = https://yousee360.com
+LinkBehaviour_5B014F36_6095_1069_41D2_8B569E5F5955.source = https://yousee360.com
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_4F516F80_7422_4DDE_41DC_4B5A3F6D9948.toolTip = Go to Aerial View
+HotspotPanoramaOverlayArea_4C72CDD0_742E_4D7E_41D1_4F8B57DF9335.toolTip = Go to Aerial View
+HotspotPanoramaOverlayArea_4E004162_7422_7522_41BB_E17DC9DD6804.toolTip = Go to Aerial View
+HotspotPanoramaOverlayArea_4DE86617_7422_BEE2_41A1_D293685EF971.toolTip = Go to Aerial View
+HotspotPanoramaOverlayArea_45CCEE34_7421_CF26_41CC_5ECBF912A7D9.toolTip = Go to Aerial Yoga
+HotspotPanoramaOverlayArea_448409D9_7422_556E_41DC_56A5E58681AB.toolTip = Go to Aerial Yoga
+HotspotPanoramaOverlayArea_436DFE55_7423_CF66_41B2_71D1D4E9F6AB.toolTip = Go to Aerial Yoga
+HotspotPanoramaOverlayArea_47E6AB7B_7462_5522_41B6_4E61C8CB4961.toolTip = Go to Bathroom
+HotspotPanoramaOverlayArea_45F10680_7426_5FDE_41B4_4E299018C215.toolTip = Go to Bathrooms
+HotspotPanoramaOverlayArea_456B637A_742E_B522_41D2_4D7F47D12A20.toolTip = Go to Bathrooms
+HotspotPanoramaOverlayArea_44F68052_7422_5362_41D3_58D9B5640741.toolTip = Go to Bathrooms
+HotspotPanoramaOverlayArea_44966D78_743F_CD2E_41C7_8ADE19BDB8A3.toolTip = Go to Bathrooms
+HotspotPanoramaOverlayArea_47A4BE85_7462_CFE6_41D6_65A986750DF6.toolTip = Go to Bedroom II
+HotspotPanoramaOverlayArea_47E6AF92_7461_CDE2_41A3_8C2362174397.toolTip = Go to Bridge
+HotspotPanoramaOverlayArea_4706CF35_7422_4D21_41B6_B9FE6C92BF00.toolTip = Go to Community Space
+HotspotPanoramaOverlayArea_47603FB8_7461_CD2E_41D0_5DDDC43FBC04.toolTip = Go to Community Space
+HotspotPanoramaOverlayArea_4F422C57_74EF_D362_415C_BDB0D5F3F408.toolTip = Go to Community Space
+HotspotPanoramaOverlayArea_4FE77CFA_74E2_5322_41BF_359E5807622F.toolTip = Go to Cozy Dormitories
+HotspotPanoramaOverlayArea_446228A3_7422_5322_41D8_62D697868327.toolTip = Go to Cozy Dormitories
+HotspotPanoramaOverlayArea_45BC3316_7422_56E2_41D6_6E9ACFDBA491.toolTip = Go to Dormitories
+HotspotPanoramaOverlayArea_428B1053_741E_D362_41D8_258318D78DBC.toolTip = Go to Dormitory
+HotspotPanoramaOverlayArea_4413E39E_742E_55E2_41BC_594756EDF30C.toolTip = Go to Dormitory
+HotspotPanoramaOverlayArea_46C2BDBA_7466_4D22_41CB_D13FCB1632D0.toolTip = Go to Entrance Area
+HotspotPanoramaOverlayArea_44088DEC_7426_4D26_41C0_85F31E2ED0B6.toolTip = Go to Firepit
+HotspotPanoramaOverlayArea_4559F3F8_742F_B52E_41D7_5A8C95FA6CE9.toolTip = Go to Firepit
+HotspotPanoramaOverlayArea_4252B5CA_7422_FD62_41D6_B40DF5345516.toolTip = Go to Jacuzzi
+HotspotPanoramaOverlayArea_43492A30_743E_773E_41AF_13C844B45594.toolTip = Go to Jacuzzi
+HotspotPanoramaOverlayArea_47E89C5B_7422_5362_41D0_3DA93478BE5D.toolTip = Go to Jacuzzi
+HotspotPanoramaOverlayArea_4F12CA4B_74EE_5762_41C2_27718CB52DA2.toolTip = Go to Jacuzzi
+HotspotPanoramaOverlayArea_42F6AA16_743E_F6E2_41B0_B90FA5893379.toolTip = Go to Kitchen
+HotspotPanoramaOverlayArea_42AFB5DD_7423_DD66_41C6_36A5A566B32B.toolTip = Go to Kitchen
+HotspotPanoramaOverlayArea_44C723CB_7423_B562_41D3_92D600AA11CB.toolTip = Go to Kitchen
+HotspotPanoramaOverlayArea_4375F4F5_7422_B326_41D3_0BA6D39745C7.toolTip = Go to Kitchen
+HotspotPanoramaOverlayArea_449700C0_7463_F35E_41A9_774C5308BB70.toolTip = Go to Labyrinth
+HotspotPanoramaOverlayArea_477E435B_7427_F562_41CA_ADD52BEE4088.toolTip = Go to Labyrinth
+HotspotPanoramaOverlayArea_4FFBE989_74E7_B5EE_41DC_E3C7B36E6D89.toolTip = Go to Labyrinth
+HotspotPanoramaOverlayArea_446FFB12_7422_76E2_41C4_57D3B0CD4360.toolTip = Go to Labyrinth Center
+HotspotPanoramaOverlayArea_42A627A0_742E_FDDF_41CF_862BF682C7DF.toolTip = Go to Launch Area View Point
+HotspotPanoramaOverlayArea_46DE01E6_7467_B522_41D8_7AB45EED9C9A.toolTip = Go to Living Room
+HotspotPanoramaOverlayArea_44978F1B_7466_CEE2_41D0_0989FEB1CC5B.toolTip = Go to Living Room
+HotspotPanoramaOverlayArea_47A8E055_7462_5366_41D0_CA19977E76A3.toolTip = Go to Living Room
+HotspotPanoramaOverlayArea_4494D4E1_7461_F35E_41CF_6135700F0F91.toolTip = Go to Living Room
+HotspotPanoramaOverlayArea_442AD558_7426_7D6E_41D1_EB5C579B01C8.toolTip = Go to Lounge Area
+HotspotPanoramaOverlayArea_453F36B3_7422_7F22_41D2_B806D3385D98.toolTip = Go to Lounge Area
+HotspotPanoramaOverlayArea_42BF465E_7427_DF62_41D2_A820DAD6FAF0.toolTip = Go to Lounge Area
+HotspotPanoramaOverlayArea_44711DCB_7422_4D62_41C1_D642D6737346.toolTip = Go to Lounge Area View Point
+HotspotPanoramaOverlayArea_44ECF982_7421_F5E2_4180_A02C2C0109FC.toolTip = Go to Magical Gardens
+HotspotPanoramaOverlayArea_4458EFAC_7426_4D26_41D5_4731467FDE46.toolTip = Go to Magical Gardens
+HotspotPanoramaOverlayArea_44DB0F15_7462_4EE6_41D1_F33E03218946.toolTip = Go to Master Bedroom
+HotspotPanoramaOverlayArea_432DEB3C_7422_5526_41D6_08320FDA8F8A.toolTip = Go to Parking
+HotspotPanoramaOverlayArea_4298B985_7421_B5E6_41CB_0F1095C06A48.toolTip = Go to Path
+HotspotPanoramaOverlayArea_4FCB2844_74E6_F366_41D6_4E96F2D0170D.toolTip = Go to Path
+HotspotPanoramaOverlayArea_45A9A33D_7426_D526_41D6_81A8073EC1D6.toolTip = Go to Path I
+HotspotPanoramaOverlayArea_4701539D_7421_D5E6_41B5_323360FDEAA1.toolTip = Go to Path II
+HotspotPanoramaOverlayArea_4CFF5BF3_7422_7522_41D7_0E386C256131.toolTip = Go to Photo Gallery Birdfeeder
+HotspotPanoramaOverlayArea_4FF2CC3F_74E3_D322_41D2_75808486B29F.toolTip = Go to Private Accomodations
+HotspotPanoramaOverlayArea_47B74FC3_7462_4D62_41D0_6295A2282255.toolTip = Go to Private Accomodations
+HotspotPanoramaOverlayArea_451F497F_741E_5522_41BC_834EEA21FA0B.toolTip = Go to Private Accomodations
+HotspotPanoramaOverlayArea_44E48A52_7422_7762_41D3_EA5BC3726B8A.toolTip = Go to Reception
+HotspotPanoramaOverlayArea_449AB02F_7426_D322_41B0_F28F7E98320C.toolTip = Go to Reception
+HotspotPanoramaOverlayArea_43BBFAC4_74E1_F766_41A2_EF23380F3FE2.toolTip = Go to Reception
+HotspotPanoramaOverlayArea_42CE9490_742E_D3FE_41C6_BE66479C036B.toolTip = Go to Reception
+HotspotPanoramaOverlayArea_4376130A_7422_F6E2_41D3_11B1A0E32984.toolTip = Go to Souvenir Shop
+HotspotPanoramaOverlayArea_45BE718E_7427_F5E2_41A7_83C0875EEE59.toolTip = Go to Souvenir Shop
+HotspotPanoramaOverlayArea_456BCD2B_7422_CD22_41A6_760325EDD67A.toolTip = Go to Souvenir Shop
+HotspotPanoramaOverlayArea_437C172C_7426_5D26_41B8_C612824FBA5C.toolTip = Go to Souvenir Shop
+HotspotPanoramaOverlayArea_43568A7C_7423_D726_41CE_C3320882A2A0.toolTip = Go to Tibetian Bowl
+HotspotPanoramaOverlayArea_44AF4FB3_7422_4D22_41BB_7ADC4187B896.toolTip = Go to Tibetian Bowl
+HotspotPanoramaOverlayArea_435938F8_742F_F32E_41B1_CEA8505A39AA.toolTip = Go to Tibetian Bowl
+HotspotPanoramaOverlayArea_43455C5D_742E_5366_4192_55BF143FA774.toolTip = Go to Tibetian Bowl
+HotspotPanoramaOverlayArea_33756255_7421_D761_41DC_137715E9D8F7.toolTip = Open Photo Gallery Birdfeeder
+HotspotPanoramaOverlayArea_4DA65A63_742E_B722_41C0_BCA17B6F3A51.toolTip = Watch Smudge Video
+HotspotPanoramaOverlayArea_32578579_742F_FD2E_4196_187B02594F31.toolTip = Watch Smudge Video
+
+## Media
+
+### 360 Video
+
+### Subtitle
+panorama_5F786A25_746F_B726_41D6_6A9E10D2DDC9.subtitle = Community Space
+panorama_5F78EDC0_7461_CD5E_41B5_4D8487CD139A.subtitle = Community Space
+panorama_5F7B5D3C_7463_CD26_41D3_37315CD67870.subtitle = Community Space
+panorama_5F78CF8C_746E_4DE6_41CD_3983A850027B.subtitle = Community Space
+panorama_5F7BBC6A_7462_F322_41A5_259D40A81BD1.subtitle = Community Space
+panorama_5F798ACF_746E_B762_41D9_927D9452E05C.subtitle = Community Space
+panorama_5F780462_746E_5322_41DC_17785ADFBC5D.subtitle = Community Space
+panorama_5F79EEE0_746E_4F5E_41CC_71810B1786C3.subtitle = Community Space
+panorama_5F782B06_746E_D6E2_419F_6C668049F489.subtitle = Community Space
+panorama_5F7AFD95_7462_4DE6_4193_5B97A61FC692.subtitle = Community Space
+panorama_5F7BBE37_7462_4F22_41C0_C0812D4B1F0A.subtitle = Community Space
+panorama_5F782116_746E_F2E2_41DA_7743CA0868C0.subtitle = Cozy Dormitories
+panorama_5F78E1F0_746E_553E_41A0_6AD850779192.subtitle = Cozy Dormitories
+panorama_5F6749AC_746E_5526_41B2_2B8D654797C2.subtitle = Cozy Dormitories
+panorama_5F6AECD3_7461_B362_41D2_2E913A6A1630.subtitle = Our Magical Garden
+panorama_5F6A452B_7461_DD22_41D5_2022306FCF08.subtitle = Our Magical Garden
+panorama_5F690E1C_7462_4EE6_41DB_914D8A005D73.subtitle = Our Magical Garden
+panorama_5F698368_7462_552E_41C5_F42AED715FB6.subtitle = Our Magical Garden
+panorama_5F69B995_7462_D5E6_41D7_AF5125704309.subtitle = Our Magical Garden
+panorama_5F772787_7462_5DE2_41D5_56AC2183B401.subtitle = Private Accommodations
+panorama_5F77FC24_7462_5326_41B4_4E328805722D.subtitle = Private Accommodations
+panorama_5F774A83_7462_F7E2_41C4_9F2225F1FEA5.subtitle = Private Accommodations
+panorama_5F7792BA_7462_5722_41D3_4ACD288327CD.subtitle = Private Accommodations
+panorama_5F76C1D2_7463_D562_41AC_7951CCD37F7C.subtitle = Private Accommodations
+
+### Title
+album_32DE6A77_7426_5722_41A9_D03129F2F939_0.label = 20241215-IMGP9727
+album_32DE6A77_7426_5722_41A9_D03129F2F939_1.label = 20241215-IMGP9736
+album_32DE6A77_7426_5722_41A9_D03129F2F939_2.label = 20241215-IMGP9739
+album_32DE6A77_7426_5722_41A9_D03129F2F939_3.label = 20241215-IMGP9744
+album_32DE6A77_7426_5722_41A9_D03129F2F939_4.label = 20241215-IMGP9747
+album_32DE6A77_7426_5722_41A9_D03129F2F939_5.label = 20241215-IMGP9761
+album_32DE6A77_7426_5722_41A9_D03129F2F939_6.label = 20241215-IMGP9766
+album_32DE6A77_7426_5722_41A9_D03129F2F939_7.label = 20241215-IMGP9772
+album_32DE6A77_7426_5722_41A9_D03129F2F939_8.label = 20241215-IMGP9776
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_0.label = 65fb3e68af63dc1a4c337a4e_423312045_239900579162473_2337489759566826971_n
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_2.label = 65fb41de07054ca1c5ecac18_food 2
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_1.label = 65fb4c18216ffa2d883a9ced_WhatsApp Image 2024-03-20 at 2.43.21 PM
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_3.label = 665cd967c1f33f78afbce06f_volcano sunset cropped
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_4.label = 665d2e321d7da26acfaae78c_Denise saging Kayla
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_5.label = 665d2ef4f442affd438928a0_Ramona clearing Alyssa
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_6.label = 665d2f89acd524cd7bb95897_Teresa grounding Koty
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_7.label = 665d3a60426482888249a690_labyrinth from above
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_10.label = 665d3c031523e0f4ab951068_group at table edited
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_9.label = 665d3c611c0aabc1cd6d7f99_thumbnail_IMG_4164
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_8.label = 665d3c9f4d6c012103ee1e5d_thumbnail_IMG_4122
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_11.label = 665d40211c0aabc1cd7064c2_kayla & craig at firepit edited
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_12.label = 665e33988d93ddf632e1b09a_ALYSSA IN BOWL 2
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_13.label = 66958aaa135af85f31ff9999_IMG_4953
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_15.label = 669674acb8bcf4b1f98c7a48_72C300~2
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_16.label = 6696756a164f971609e01514_FB70F6~1
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_17.label = 6696769378abce23d1972db4_IMG_5033
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A_14.label = 67454cdfd6fc38dbf0616fba_JACUZZI YES 4
+panorama_33BCEB1C_74E2_56E6_41CA_851AF298994A.label = Aerial View
+panorama_496EC323_74E2_D522_41C9_C7E0D64640C9.label = Aerial View II
+panorama_496DCFA5_74EE_4D26_4172_74D8E8C62622.label = AirBnB Aerial
+panorama_5F772787_7462_5DE2_41D5_56AC2183B401.label = Bathroom
+panorama_5F79EEE0_746E_4F5E_41CC_71810B1786C3.label = Bathrooms
+panorama_5F77FC24_7462_5326_41B4_4E328805722D.label = Bedroom
+panorama_5F7BBC6A_7462_F322_41A5_259D40A81BD1.label = Bird Feeder
+album_32DE6A77_7426_5722_41A9_D03129F2F939.label = Birdfeeder
+album_32DE6A77_7426_5722_41A9_D03129F2F939_9.label = Blue-gray Tanager_Tanager azuleja
+panorama_5F690E1C_7462_4EE6_41DB_914D8A005D73.label = Bridge
+panorama_496D3280_74EE_57DE_41DB_853BD9131F4B.label = Bunkbed Aerial
+panorama_496D3C8F_74EE_F3E2_41C4_4F2976599743.label = Community Space Aerial
+album_32DE6A77_7426_5722_41A9_D03129F2F939_11.label = Crimson_collard Tanager_Tangara capuchirroja_1
+panorama_5F78E1F0_746E_553E_41A0_6AD850779192.label = Dormitory
+panorama_5F782116_746E_F2E2_41DA_7743CA0868C0.label = Entrance
+panorama_5F76C1D2_7463_D562_41AC_7951CCD37F7C.label = Entrance
+panorama_5F7AFD95_7462_4DE6_4193_5B97A61FC692.label = Firepit
+album_063E7DEE_9CE7_CE28_41B5_EFDAAD14DD0A.label = Gallery
+panorama_496DAA80_74E1_B7DE_419E_48307EB3ECD4.label = High Aerial View
+panorama_5F782B06_746E_D6E2_419F_6C668049F489.label = Jacuzzi
+panorama_5F786A25_746F_B726_41D6_6A9E10D2DDC9.label = Kitchen
+panorama_5F69B995_7462_D5E6_41D7_AF5125704309.label = Labyrinth Center
+panorama_5F698368_7462_552E_41C5_F42AED715FB6.label = Labyrinth Entrance
+panorama_5F7792BA_7462_5722_41D3_4ACD288327CD.label = Living Room
+panorama_5F78CF8C_746E_4DE6_41CD_3983A850027B.label = Lounge Area
+panorama_5F774A83_7462_F7E2_41C4_9F2225F1FEA5.label = Master Bedroom
+panorama_5F780462_746E_5322_41DC_17785ADFBC5D.label = Parking Lot
+panorama_5F6A452B_7461_DD22_41D5_2022306FCF08.label = Path I
+panorama_5F6AECD3_7461_B362_41D2_2E913A6A1630.label = Path II
+panorama_5F7BBE37_7462_4F22_41C0_C0812D4B1F0A.label = Reception
+media_366197F8_7421_DD2E_41CB_886F29E208FD.label = Sinah Smudge
+panorama_5F7B5D3C_7463_CD26_41D3_37315CD67870.label = Souvenir Shop
+panorama_5F78EDC0_7461_CD5E_41B5_4D8487CD139A.label = Tibetian Bowl
+panorama_5F6749AC_746E_5526_41B2_2B8D654797C2.label = Toilets
+album_32DE6A77_7426_5722_41A9_D03129F2F939_12.label = Woodpecker_honeycreeper_Tanager
+album_32DE6A77_7426_5722_41A9_D03129F2F939_13.label = Yellow-crowned Euphonia_female_Eufonia Gorgiamarilla_2
+album_32DE6A77_7426_5722_41A9_D03129F2F939_14.label = Yellow-crowned Euphonia_male_Eufonia Gorgiamarilla_2
+panorama_5F798ACF_746E_B762_41D9_927D9452E05C.label = Yoga Hammock
+album_32DE6A77_7426_5722_41A9_D03129F2F939_10.label = common_Tanager_2
+
+### Video
+videores_8911D234_87DF_C33E_41D5_79AC42CF73C0.url = media/media_366197F8_7421_DD2E_41CB_886F29E208FD_en.m3u8
+videores_88EE1236_87DF_C33A_41CC_BDAC91718929.url = media/media_366197F8_7421_DD2E_41CB_886F29E208FD_en.mp4
+videores_8911D234_87DF_C33E_41D5_79AC42CF73C0.posterURL = media/media_366197F8_7421_DD2E_41CB_886F29E208FD_poster_en.jpg
+videores_88EE1236_87DF_C33A_41CC_BDAC91718929.posterURL = media/media_366197F8_7421_DD2E_41CB_886F29E208FD_poster_en.jpg
+
+### Video Subtitles
+
+## Right Click Menu
+
+### Text
+menuItem_56127513_6095_702F_41BE_FACA3DE905DA.label = Virtual Tour by YouSee360
+
+## Skin
+
+### Button
+Button_307F45CE_6057_FBCC_41D5_FD32EE2D5A78.label = AMENITIES
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = BOOK A CONSULTATION
+Button_718FB1CD_60B6_E5E3_41D6_BCB4CCFDFBDC.label = BOOK A CONSULTATION
+Button_307F95CE_6057_FBCC_41C7_B333F07C8122.label = Bar
+Button_307F65CF_6057_FBCC_41BB_13FA17E2C9AB.label = CUCENA
+Button_307F85CE_6057_FBCC_41D3_51C00DB92A20.label = Chill Out
+Button_307F05CE_6057_FBCC_41D6_C582E4F8D33B.label = Community Space
+Button_3AEC57F6_60D6_67DD_41D0_694A036298AF.label = Cozy Dormatories
+Button_41E392A5_60B9_0A08_41BF_F6AAFA87203B.label = FLOORPLAN
+Button_41E3D2A5_60B9_0A08_41B7_737D4607570D.label = INFO
+Button_41E382A5_60B9_0A08_41D5_3FD188EFFDD4.label = LOCATION
+Button_307F25D0_6057_FBD4_41B0_5E14C1D2FC22.label = LOCATION
+Button_307FD5CE_6057_FBCC_41CC_536DDA444F00.label = Lobby
+Button_3CA53F6D_60CE_68CC_41D0_97234605DBC6.label = Lorem Ipsum
+Button_3C2E84AF_60CE_584B_41C3_79FAE620CCE9.label = Lorem Ipsum
+Button_3C374402_60CE_5834_41C7_743903F3EAD1.label = Lorem Ipsum
+Button_3C1F1344_60CE_583C_419A_D3E4ACDEA010.label = Lorem Ipsum
+Button_3BC5B42E_60D6_784D_41A3_6479FA21A1A9.label = Lorem Ipsum
+Button_3BF9B800_60D6_6834_41B0_F6309500A250.label = Lorem Ipsum
+Button_3B197998_60D6_6855_41C7_99A6C32E2384.label = Lorem Ipsum
+Button_3B3C7B5C_60D6_68CD_41D1_FFB577C80ADA.label = Lorem Ipsum
+Button_03AA7C9B_60F5_E854_41D1_C29772B2A455.label = Lorem Ipsum
+Button_030C6B04_60CA_683C_419C_6C1F0B9EB051.label = Lorem Ipsum
+Button_3C35C0B9_60CD_F854_41CA_2F187FB8960F.label = Lorem Ipsum
+Button_3C58D2BC_60CD_F84C_41D7_7CB447A7D5BF.label = Lorem Ipsum
+Button_3C70C399_60CD_F854_41D6_488C924AD534.label = Lorem Ipsum
+Button_3C69544A_60CD_F835_41CA_C7312C7B3578.label = Lorem Ipsum
+Button_3D8024FE_60CD_F9CC_41D7_A101588235F6.label = Lorem Ipsum
+Button_3DBB65DA_60CD_FBD4_41D0_4F3B5CD606A9.label = Lorem Ipsum
+Button_3DF12A63_60CD_E8FB_41D0_83B1FB2CC56F.label = Lorem Ipsum
+Button_3B5DCD73_60CE_E8D4_41A0_A70D622FF822.label = Lorem Ipsum
+Button_3B1F3FAF_60CE_684C_41A0_AD93990FC16F.label = Lorem Ipsum
+Button_3B4F7E10_60CE_E854_41D3_4200495C04EB.label = Lorem Ipsum
+Button_3CF0E1E2_60CE_5BF4_4136_3FE02552AC94.label = Lorem Ipsum
+Button_3CE40290_60CE_5854_41D7_2608A956C59B.label = Lorem Ipsum
+Button_027E69DF_60F5_EBCC_41D0_DA549FE430A5.label = Lorem Ipsum
+Button_3C96EF55_60CE_E8DC_4180_0D3CE8FCB751.label = Lorem Ipsum
+Button_023318B5_60F5_E85C_41C2_C8C50D7C368E.label = Lorem Ipsum
+Button_3C45F5D2_60CE_5BD4_41C0_CC1810D45E29.label = Lorem Ipsum
+Button_039B0A9C_60F5_E84C_41B4_85DA5003EEFE.label = Lorem Ipsum
+Button_3B3673B8_60CF_B854_41B9_8AC7249D3A1B.label = Lorem Ipsum
+Button_3B031B65_60CE_E8FC_41CF_18C07E2E58B8.label = Lorem Ipsum
+Button_025CF94C_60F5_E8CC_41C7_4B0565CACC1A.label = Lorem Ipsum
+Button_02C35607_60F5_D83C_41D1_3F7BE5AB7368.label = Lorem Ipsum
+Button_3B66CEDB_60CE_E9D4_41CA_2F3DAC235546.label = Lorem Ipsum
+Button_3CC3E3ED_60CE_FFCC_41C4_C48363B62A80.label = Lorem Ipsum
+Button_3C85A007_60CE_F83B_41B9_7D30CC9CF6EC.label = Lorem Ipsum
+Button_0210B80A_60F5_E834_41C2_262A279EA500.label = Lorem Ipsum
+Button_19640B96_60CA_685C_41D0_C3EFCA646A08.label = Lorem Ipsum
+Button_50D923F0_6061_057B_41C9_1D2D7358B7CE.label = MENU
+Button_3BBB129C_60D6_784C_41D3_B811E1E9E26B.label = Magical Garden
+Button_307E25CE_6057_FBCC_41D1_E295E5C3528A.label = Main Entrance
+Button_307FF5CE_6057_FBCC_41D5_405F882ECED2.label = Meeting Area 1
+Button_307FE5CE_6057_FBCC_41D1_2DA85B874499.label = Meeting Area 2
+Button_41E3F2A5_60B9_0A08_41C3_9FE9C5047659.label = PANORAMAS
+Button_41E3A2A5_60B9_0A08_41BE_55AB547304EE.label = PHOTOS
+Button_3B92E10A_60D6_7834_41D1_4B446F9FB434.label = Private Accomodations
+Button_307E65CE_6057_FBCC_41D4_18C7A0A54239.label = RECEPTION
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.label = Reception
+Button_307FC5CE_6057_FBCC_4190_85A741B8DCAC.pressedLabel = Reception
+Button_307FD5CF_6057_FBCC_41D4_AEEBAD314687.label = SWIMMING POOL
+Button_307FB5CE_6057_FBCC_41AE_9BF529C6E6AF.label = Terrace
+Button_41E3B2A5_60B9_0A08_41BC_3A36B4FAF7B8.label = Virtual Tour by You See 360
+Button_307CB5CF_6057_FBCC_4181_83F08F76DF2A.label = WEBSITE
+
+### Dropdown
+DropDown_05783A1F_3AA3_A1D2_41A6_E88282E5373B.label = AMENITIES
+DropDown_0561BA16_3AA3_A1D2_41C7_FDA0B6E9EE29.label = COMMUNITY SPACE
+DropDown_024E0E71_9C22_CA38_41DD_F2F291AE1A96.label = COZY DORMATORIES
+DropDown_05784A29_3AA3_A1FE_41B1_E2305F2F53BE.label = HEALING MODALITIES
+DropDown_05C342C5_9C22_7A58_41D4_AB2CD9996F84.label = MAGICAL GARDENS
+DropDown_F8E0442B_9C22_7E28_41E0_B6176C62CA5E.label = PRIVATE ACCOMODATIONS
+DropDown_1A4E81B9_60B5_105B_4182_955EBBD12693.label = RETREATS
+DropDown_05789A1B_3AA3_A1D2_41CC_002739F0C312.label = ROOMS
+DropDown_057BFA20_3AA3_A1EE_41A9_8EE569D894A7.label = SPORTS AREA
+DropDown_057B3A27_3AA3_A1F2_41C0_6BB995D79A09.label = SWIMMING POOL
+
+### Image
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_en.png
+Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile.url = skin/Image_05314BAF_3AA1_A6F2_41CB_86A11240FA50_mobile_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.jpg
+Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29.url = skin/Image_41E322A5_60B9_0A08_41D0_4D34AC0B3F29_en.png
+Image_718C71CD_60B6_E5E3_41B9_105D7970318F.url = skin/Image_718C71CD_60B6_E5E3_41B9_105D7970318F_en.jpg
+Image_731CA57E_60BF_A2A1_4190_01076897586C.url = skin/Image_731CA57E_60BF_A2A1_4190_01076897586C_en.jpg
+Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F.url = skin/Image_731CE57E_60BF_A2A1_41CC_3F43DCC7BC6F_en.jpg
+
+### Label
+Label_0E9CEE5D_36F3_E64E_419C_5A94FA5D3CA1_mobile.text = COMPANY NAME
+Label_51078892_608D_3028_41B9_7F4C5B0820B9.text = Virtual Tour by You See 360
+Label_33136756_7426_DD62_41B4_05F7C88EB8FD.text = WEBSITE
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918_mobile.text = {{Subtitle}}
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151.text = {{Title}}
+Label_0C5F13A8_3BA0_A6FF_41BD_E3D21CFCE151_mobile.text = {{Title}}
+Label_0C5F23A8_3BA0_A6FF_419F_468451E37918.text = {{subtitle}}
+
+### Multiline Text
+HTMLText_731F057E_60BF_A2A1_41C8_ACE4EB05FF54.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.369999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.37vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_731CF57E_60BF_A2A1_41D7_B81B17089B91.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.469999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:8.47vmin;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.280000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.28vmin;font-family:'Montserrat';">Licensed Real Estate Salesperson</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.15vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8900000000000023vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000023vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">jhondoe@realestate.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8900000000000023vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:3.89vmin;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:7.61vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000024vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000024vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>DOLOR SIT AMET</B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.07vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f7931e;font-size:2.07vh;font-family:'Montserrat';"><B>JOHN DOE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7400000000000018vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>LICENSED REAL ESTATE SALESPERSON</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>jhondoe@realestate.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.3099999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.31vh;font-family:'Montserrat';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.7000000000000024vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.7vh;font-family:'Montserrat';"><B>About Dragonfly Awakenings</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9599999999999995vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#8a0399;font-size:1.96vh;font-family:'Montserrat';"><B>Our Healing Journey and Vision</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.45vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.4471780028943564vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#8a0399;font-size:1.45vh;font-family:'Montserrat';">Explore the heart and soul of Dragonfly Awakenings. Learn about our story, mission, team and how we create transformative healing experiences in Costa Rica.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.7366136034732274vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Montserrat';"><B>How We Came Together</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5918958031837909vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.59vh;font-family:'Montserrat';">Imagine this - three women, each with unique paths and aspirations, find ourselves drawn together by an invisible thread of destiny one afternoon in a swimming pool in Costa Rica.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5918958031837909vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.59vh;font-family:'Montserrat';">Denise, a seasoned medium, past-life regression practitioner, reiki practitioner, and published author with a deep reverence for divine healing powers, crosses paths with Ramona, a visionary entrepreneur driven by a desire to create a sanctuary for self-discovery through the transformative potential of plants. Joining them is Teresa, a compassionate reiki practitioner and gentle yoga/mindfulness teacher with a profound empathy for human resilience and a therapeutic approach.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5918958031837909vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.59vh;font-family:'Montserrat';">Despite our diverse backgrounds, a powerful connection sparked between us. We share a passion for healing, a deep respect for the interconnectedness of all living beings, and an unwavering belief in the inherent potential of humanity to transform through the process of plant medicine and its allies. Each of us had faced our own demons, battled through traumas, and emerged victorious with the help of psychedelic medicine and deep spiritual practice. Experiencing the transformative power of natural medicines firsthand, we decided we should open our own retreat center and thus the idea for Dragonfly Awakenings was born.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5918958031837909vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.59vh;font-family:'Montserrat';">Our journey had only just begun. We dove deeper into the world of natural healing and in specific, integration, to help us build a center that catalyzed deep, long-lasting positive transformation. We embarked on a 9-month journey to become certified psychedelic Plant Medicine Integration Coaches through the Plant Medicine School and attended an authentic relating training, "The Art of Being Human," at Brave Earth. This wealth of knowledge alongside years of natural medicine and spiritual healing experience laid the foundation for Dragonfly Awakenings.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5918958031837909vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.59vh;font-family:'Montserrat';">After 6 months of searching, we are now nestled in the lush rainforest of La Fortuna, Costa Rica, blessed with an abundance of nature, visits from exotic creatures and breathtaking views of the majestic Arenal Volcano. Our healing center offers a unique blend of spiritual retreats along with other natural and psychedelic plant medicine retreats with comprehensive integration support. Ramona has chosen to step back from Dragonfly Awakenings and Teresa and Denise continue to operate with much love and integrity</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5918958031837909vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.59vh;font-family:'Montserrat';">Dragonfly Awakenings places immense emphasis on preparation, navigation, and processing of  natural healing experiences. We understand that true healing and transformation extend beyond the ceremonies themself, requiring dedicated integration work. The name "Dragonfly Awakenings" is a powerful symbol of this transformative journey. The dragonfly embodies change, rebirth, adaptability, and self-realization, mirroring the profound renewal individuals experience at our center. We are committed to creating a safe and compassionate space where individuals can be seen, heard, felt, and understood. We operate with integrity and non-judgment, always striving for the highest good of all. Here, you are not just a client; you are a valued being embarking on a journey of self-discovery and growth. Dragonfly Awakenings provides the guidance and support you need to unlock your full potential and embrace the life you were meant to live.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.5918958031837909vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.59vh;font-family:'Montserrat';">Are you ready to awaken to your true self?</SPAN></SPAN></DIV></div>
+HTMLText_718FA1CD_60B6_E5E3_41D3_6335BDF289A6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.101944444444449vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.1vmin;font-family:'Montserrat';"><B>About Dragonfly Awakenings</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.76vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.762111111111111vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#8a0399;font-size:3.76vmin;font-family:'Montserrat';"><B>Our Healing Journey and Vision</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.78vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.777777777777778vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#8a0399;font-size:2.78vmin;font-family:'Montserrat';">Explore the heart and soul of Dragonfly Awakenings. Learn about our story, mission, team and how we create transformative healing experiences in Costa Rica.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333334vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vmin;font-family:'Montserrat';"><B>How We Came Together</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Montserrat';">Imagine this - three women, each with unique paths and aspirations, find ourselves drawn together by an invisible thread of destiny one afternoon in a swimming pool in Costa Rica.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Montserrat';">Denise, a seasoned medium, past-life regression practitioner, reiki practitioner, and published author with a deep reverence for divine healing powers, crosses paths with Ramona, a visionary entrepreneur driven by a desire to create a sanctuary for self-discovery through the transformative potential of plants. Joining them is Teresa, a compassionate reiki practitioner and gentle yoga/mindfulness teacher with a profound empathy for human resilience and a therapeutic approach.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Montserrat';">Despite our diverse backgrounds, a powerful connection sparked between us. We share a passion for healing, a deep respect for the interconnectedness of all living beings, and an unwavering belief in the inherent potential of humanity to transform through the process of plant medicine and its allies. Each of us had faced our own demons, battled through traumas, and emerged victorious with the help of psychedelic medicine and deep spiritual practice. Experiencing the transformative power of natural medicines firsthand, we decided we should open our own retreat center and thus the idea for Dragonfly Awakenings was born.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Montserrat';">Our journey had only just begun. We dove deeper into the world of natural healing and in specific, integration, to help us build a center that catalyzed deep, long-lasting positive transformation. We embarked on a 9-month journey to become certified psychedelic Plant Medicine Integration Coaches through the Plant Medicine School and attended an authentic relating training, "The Art of Being Human," at Brave Earth. This wealth of knowledge alongside years of natural medicine and spiritual healing experience laid the foundation for Dragonfly Awakenings.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Montserrat';">After 6 months of searching, we are now nestled in the lush rainforest of La Fortuna, Costa Rica, blessed with an abundance of nature, visits from exotic creatures and breathtaking views of the majestic Arenal Volcano. Our healing center offers a unique blend of spiritual retreats along with other natural and psychedelic plant medicine retreats with comprehensive integration support. Ramona has chosen to step back from Dragonfly Awakenings and Teresa and Denise continue to operate with much love and integrity</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Montserrat';">Dragonfly Awakenings places immense emphasis on preparation, navigation, and processing of  natural healing experiences. We understand that true healing and transformation extend beyond the ceremonies themself, requiring dedicated integration work. The name "Dragonfly Awakenings" is a powerful symbol of this transformative journey. The dragonfly embodies change, rebirth, adaptability, and self-realization, mirroring the profound renewal individuals experience at our center. We are committed to creating a safe and compassionate space where individuals can be seen, heard, felt, and understood. We operate with integrity and non-judgment, always striving for the highest good of all. Here, you are not just a client; you are a valued being embarking on a journey of self-discovery and growth. Dragonfly Awakenings provides the guidance and support you need to unlock your full potential and embrace the life you were meant to live.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.06vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.3vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.055555555555554vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Montserrat';">Are you ready to awaken to your true self?</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Dragonfly Awakenings
